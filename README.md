@@ -45,13 +45,29 @@ Para desarrollar Blends utilizamos:
   <li><strong>Notificaciones:</strong> Los usuarios reciben notificaciones cuando reciben solicitudes de amistad.</li>
 </ul>
 <h2>🖼 Interfaz:</h2>
+En esta seccion se mostrar solo algunas pantallas de la aplicación, se puede visualizar su estilo y diseño, También la forma en la que adpata para moviles.
+<h3>Feed:</h3>
 <img src="imagenes/Feed.PNG" alt="Feed">
+<br>
+<h3>Lista de amigos:</h3>
 <img src="imagenes/amigo.PNG" alt="Feed">
+<br>
+<h3>Buscador de usuarios:</h3>
 <img src="imagenes/Buscador.PNG" alt="Feed">
+<br>
+<h3>Chat:</h3>
 <img src="imagenes/chat.PNG" alt="Feed">
+<br>
+<h3>Publicaciones indiviales y comentarios:</h3>
 <img src="imagenes/comentarios.PNG" alt="Feed">
+<br>
+<h3>Editar usuario:</h3>
 <img src="imagenes/editaruser.PNG" alt="Feed">
+<br>
+<h3>Perfil de usuario:</h3>
 <img src="imagenes/perfil.PNG" alt="Feed">
+<br>
+<h3>Movil (Responsive):</h3>
 <img src="imagenes/Movil.PNG" alt="Feed">
 
 
