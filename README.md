@@ -43,9 +43,18 @@ Para desarrollar Blends utilizamos:
   <li><strong>Administración:</strong> Hay dos tipos de usuarios: el usuario estándar y el administrador. El administrador tiene privilegios para eliminar publicaciones, editar la información de los usuarios y eliminar cuentas si es necesario.</li>
 
   <li><strong>Notificaciones:</strong> Los usuarios reciben notificaciones cuando reciben solicitudes de amistad.</li>
+  <li><strong>Ecommerce:</strong> La aplicacion tiene un perqueño ecommerce para que los usuarios puedan acceder al plan premium que la aplicación ofrece.</li>
+  <li><strong>Facturación:</strong> Luego de que el usuario complete su compra del plan premium se enviara a un correo la factura por la compra de su servicio.</li>
+  <li><strong>Recuperacion de contraseña:</strong>Se puede recuperar la contraseña mediante un correo electrónico. esta opción se puede ver en el login.</li>
 </ul>
 <h2>🖼 Interfaz:</h2>
 En esta seccion se muestra solo algunas pantallas de la aplicación, se puede visualizar su estilo y diseño, También la forma en la que adpata para moviles.
+<h3>Login:</h3>
+<img src="imagenes/login.PNG" alt="Feed">
+<br>
+<h3>Register:</h3>
+<img src="imagenes/register.PNG" alt="Feed">
+<br>
 <h3>Feed:</h3>
 <img src="imagenes/Feed.PNG" alt="Feed">
 <br>
@@ -67,6 +76,7 @@ En esta seccion se muestra solo algunas pantallas de la aplicación, se puede vi
 <h3>Perfil de usuario:</h3>
 <img src="imagenes/perfil.PNG" alt="Feed">
 <br>
+
 <h3>Movil (Responsive):</h3>
 <img src="imagenes/Movil.PNG" alt="Feed">
 
