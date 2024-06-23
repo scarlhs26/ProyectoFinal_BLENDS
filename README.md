@@ -1,3 +1,2 @@
-# ProyectoFinal_BLENDS
- Proyecto Final de Lexpin de Scarlet y Jose Perdomo
-hola
+<h1>Encabezado principal</h1>
+<h2>Subencabezado</h2>
