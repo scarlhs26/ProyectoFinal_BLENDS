@@ -9,19 +9,42 @@ Para desarrollar Blends utilizamos:
   <li>Express (Backend): Creación de API.</li>
   <li>Mongodb (Base de datos).</li>
 </ul>
-<h2> ⚙ Funcionalidades:</h2>
-Para llevar a cabo el desarrollo de Blends usamos la metodología Scrum, la cual nos permitio llevar una orden del desarrollo de cada funcionabilidad del sofware.
-<h3> Registro y login: </h3>
-  <li> <strong>Publicaciones: </strong>  Se realizan 2 tipos de publicaicones, las publicaciones con solo texto y las que tienen una imagen. </li>
-  <li> <strong>Likes:</strong> </li>
-  <li><strong>Cometarios:</strong> El usuario podra realizar comentarios dentro de cada publicación.</li>
-  <li><strong>Publicaciones individuales:</strong> Se pueden ver las publicaciones individuales en las cuales se ven los comentarios de la publicacion.</li>
-  <li><strong>Buscar usario:</strong>Mediante el buscador se puede buscar por nombre a alguna otro usuario de blends.</li>
-  <li><strong>Perfil individual y el de otro usuario</strong> El Usuario puede ver su perfil y el otra persona.</li>
-  <li><strong>Amistades:</strong>El usuario podra ver los amigos que tiene agregado, agregar nuevos amigos y eliminar a estos amigos.</li>
-   <li><strong></strong></li>
+<h2>⚙ Funcionalidades:</h2>
 
-<h3> Publicaciones: </h3>
+<p>Para llevar a cabo el desarrollo de Blends, usamos la metodología Scrum, la cual nos permitió gestionar de manera ordenada el desarrollo de cada funcionalidad del software.</p>
+
+<ul>
+  <li><strong>Registro y Login:</strong> Permite a los usuarios registrarse, iniciar sesión y guarda toda su información en la base de datos. El token se mantiene en el LocalStorage para mantener la sesión iniciada durante un tiempo determinado.</li>
+
+  <li><strong>Publicaciones:</strong> Los usuarios pueden realizar dos tipos de publicaciones: solo texto y con imagen. También tienen la capacidad de eliminar sus propias publicaciones.</li>
+
+  <li><strong>Likes:</strong> Los usuarios pueden dar like a cualquier publicación y retirar su like si así lo desean.</li>
+
+  <li><strong>Comentarios:</strong> Posibilidad para los usuarios de comentar en las publicaciones y eliminar sus propios comentarios.</li>
+
+  <li><strong>Publicaciones Individuales:</strong> Permite ver publicaciones individualmente, incluyendo los comentarios asociados a cada una.</li>
+
+  <li><strong>Buscar Usuario:</strong> Mediante el buscador, los usuarios pueden buscar a otros usuarios de Blends por su nombre.</li>
+
+  <li><strong>Perfil de Usuario:</strong> Los usuarios pueden ver su propio perfil y el de otros usuarios.</li>
+
+  <li><strong>Amistades:</strong> Funcionalidades para visualizar, agregar y eliminar amigos.</li>
+
+  <li><strong>Chat:</strong> Capacidad para que los usuarios chateen entre ellos.</li>
+
+  <li><strong>Usuario Premium:</strong> Los usuarios tienen la opción de comprar una membresía Premium, que les otorga un distintivo verificado en su perfil y publicaciones.</li>
+
+  <li><strong>Estado Online y Outline:</strong> Indicadores de estado para mostrar si un usuario está en línea u offline.</li>
+
+  <li><strong>Sugerencia de Amigos:</strong> Sistema que sugiere posibles amigos basados en intereses y conexiones existentes.</li>
+
+  <li><strong>Editar Información:</strong> Los usuarios pueden editar su información personal como nombre, correo, contraseña, descripción, imagen de perfil y también tienen la opción de eliminar su cuenta.</li>
+
+  <li><strong>Administración:</strong> Hay dos tipos de usuarios: el usuario estándar y el administrador. El administrador tiene privilegios para eliminar publicaciones, editar la información de los usuarios y eliminar cuentas si es necesario.</li>
+
+  <li><strong>Notificaciones:</strong> Los usuarios reciben notificaciones cuando reciben solicitudes de amistad.</li>
+</ul>
+
 
 
 
