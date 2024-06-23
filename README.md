@@ -53,7 +53,7 @@ En esta seccion se muestra solo algunas pantallas de la aplicación, se puede vi
 <img src="imagenes/login.PNG" alt="Feed">
 <br>
 <h3>Register:</h3>
-<img src="imagenes/registro.PNG" alt="Feed">
+<img src="imagenes/Registro.PNG" alt="Feed">
 <br>
 <h3>Feed:</h3>
 <img src="imagenes/Feed.PNG" alt="Feed">
