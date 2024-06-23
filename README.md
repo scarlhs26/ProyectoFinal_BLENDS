@@ -44,6 +44,16 @@ Para desarrollar Blends utilizamos:
 
   <li><strong>Notificaciones:</strong> Los usuarios reciben notificaciones cuando reciben solicitudes de amistad.</li>
 </ul>
+<h2>🖼 Interfaz:</h2>
+<img src="imagenes/Feed.PNG" alt="Feed">
+<img src="imagenes/amigo.PNG" alt="Feed">
+<img src="imagenes/Buscador.PNG" alt="Feed">
+<img src="imagenes/chat.PNG" alt="Feed">
+<img src="imagenes/comentarios.PNG" alt="Feed">
+<img src="imagenes/editaruser.PNG" alt="Feed">
+<img src="imagenes/perfil.PNG" alt="Feed">
+<img src="imagenes/Movil.PNG" alt="Feed">
+
 
 
 
