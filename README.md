@@ -45,7 +45,7 @@ Para desarrollar Blends utilizamos:
   <li><strong>Notificaciones:</strong> Los usuarios reciben notificaciones cuando reciben solicitudes de amistad.</li>
 </ul>
 <h2>🖼 Interfaz:</h2>
-En esta seccion se mostrar solo algunas pantallas de la aplicación, se puede visualizar su estilo y diseño, También la forma en la que adpata para moviles.
+En esta seccion se muestra solo algunas pantallas de la aplicación, se puede visualizar su estilo y diseño, También la forma en la que adpata para moviles.
 <h3>Feed:</h3>
 <img src="imagenes/Feed.PNG" alt="Feed">
 <br>
