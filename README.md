@@ -30,13 +30,13 @@ Para desarrollar Blends utilizamos:
 
   <li><strong>Amistades:</strong> Funcionalidades para visualizar, agregar y eliminar amigos.</li>
 
-  <li><strong>Chat:</strong> Capacidad para que los usuarios chateen entre ellos.</li>
+  <li><strong>Chat:</strong> los usuarios tienen la capacidad de chatear entre ellos solo si son amigos.</li>
 
   <li><strong>Usuario Premium:</strong> Los usuarios tienen la opción de comprar una membresía Premium, que les otorga un distintivo verificado en su perfil y publicaciones.</li>
 
-  <li><strong>Estado Online y Outline:</strong> Indicadores de estado para mostrar si un usuario está en línea u offline.</li>
+  <li><strong>Estado Online y offline:</strong> Indicadores de estado para mostrar si un usuario está en línea u offline.</li>
 
-  <li><strong>Sugerencia de Amigos:</strong> Sistema que sugiere posibles amigos basados en intereses y conexiones existentes.</li>
+  <li><strong>Sugerencia de Amigos:</strong> El sistema de sugerencia de amigos recomienda usuarios random de la aplicacion.</li>
 
   <li><strong>Editar Información:</strong> Los usuarios pueden editar su información personal como nombre, correo, contraseña, descripción, imagen de perfil y también tienen la opción de eliminar su cuenta.</li>
 
@@ -48,7 +48,7 @@ Para desarrollar Blends utilizamos:
   <li><strong>Recuperacion de contraseña:</strong>Se puede recuperar la contraseña mediante un correo electrónico. esta opción se puede ver en el login.</li>
 </ul>
 <h2>🖼 Interfaz:</h2>
-En esta seccion se muestra solo algunas pantallas de la aplicación, se puede visualizar su estilo y diseño, También la forma en la que adpata para moviles.
+En esta seccion se muestra solo algunas pantallas de la aplicación, se puede visualizar su estilo y diseño, También la forma en la que adapta para moviles.
 <h3>Login:</h3>
 <img src="imagenes/login.PNG" alt="Feed">
 <br>
