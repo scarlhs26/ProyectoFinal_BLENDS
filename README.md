@@ -1,84 +1,67 @@
-<h1>✨ BLENDS RED SOCIAL INTERACTIVA ✨</h1>
-<h2>Proyecto final de Scarlet Herrera y José Perdomo del Bootcamp Lexpin</h2>
+# ✨ BLENDS RED SOCIAL INTERACTIVA ✨
+## Proyecto final de Scarlet Herrera y José Perdomo del Bootcamp Lexpin
 Blends es una red social desarrollada con Stack MERN, concebida como nuestro proyecto final en el Bootcamp Lexpin. Este proyecto nos permitió aplicar y consolidar los conocimientos adquiridos a lo largo del curso. Desde el inicio, nos sentimos entusiasmados por la oportunidad de desarrollar una aplicación web de esta magnitud. Durante el proceso, enfrentamos desafíos significativos que nos han permitido crecer como aprendices, destacando por nuestras habilidades para idear, diseñar, desarrollar y planificar una aplicación que funcione según nuestras expectativas.
 
-<h2> 💻 Tecnologías: Stack Mern</h2>
+## 💻 Tecnologías: Stack Mern
 Para desarrollar Blends utilizamos: 
-<ul>
-  <li>React (front).</li>
-  <li>Express (Backend): Creación de API.</li>
-  <li>Mongodb (Base de datos).</li>
-</ul>
-<h2>⚙ Funcionalidades:</h2>
+- React (front).
+- Express (Backend): Creación de API.
+- Mongodb (Base de datos).
 
-<p>Para llevar a cabo el desarrollo de Blends, usamos la metodología Scrum, la cual nos permitió gestionar de manera ordenada el desarrollo de cada funcionalidad del software.</p>
+## ⚙ Funcionalidades:
 
-<ul>
-  <li><strong>Registro y Login:</strong> Permite a los usuarios registrarse, iniciar sesión y guarda toda su información en la base de datos. El token se mantiene en el LocalStorage para mantener la sesión iniciada durante un tiempo determinado.</li>
+Para llevar a cabo el desarrollo de Blends, usamos la metodología Scrum, la cual nos permitió gestionar de manera ordenada el desarrollo de cada funcionalidad del software.
 
-  <li><strong>Publicaciones:</strong> Los usuarios pueden realizar dos tipos de publicaciones: solo texto y con imagen. También tienen la capacidad de eliminar sus propias publicaciones.</li>
+- **Registro y Login:** Permite a los usuarios registrarse, iniciar sesión y guarda toda su información en la base de datos. El token se mantiene en el LocalStorage para mantener la sesión iniciada durante un tiempo determinado.
+- **Publicaciones:**  Los usuarios pueden realizar dos tipos de publicaciones: solo texto y con imagen. También tienen la capacidad de eliminar sus propias publicaciones.
+- **Likes:** Los usuarios pueden dar like a cualquier publicación y retirar su like si así lo desean.
+- **Comentarios:** Posibilidad para los usuarios de comentar en las publicaciones y eliminar sus propios comentarios.
+- **Publicaciones Individuales** Permite ver publicaciones individualmente, incluyendo los comentarios asociados a cada una.
+- **Buscar Usuario:** Mediante el buscador, los usuarios pueden buscar a otros usuarios de Blends por su nombre.
+- **Perfil de Usuario:** Los usuarios pueden ver su propio perfil y el de otros usuarios.
+- **Amistades:** Funcionalidades para visualizar, agregar y eliminar amigos.
+- **Chat:** los usuarios tienen la capacidad de chatear entre ellos solo si son amigos.
+- **Usuario Premium:** Los usuarios tienen la opción de comprar una membresía Premium, que les otorga un distintivo verificado en su perfil y publicaciones.
+- **Estado Online y offline:** Indicadores de estado para mostrar si un usuario está en línea u offline.
+- **Sugerencia de Amigos:** El sistema de sugerencia de amigos recomienda usuarios random de la aplicacion.
+- **Editar Información:** Los usuarios pueden editar su información personal como nombre, correo, contraseña, descripción, imagen de perfil y también tienen la opción de eliminar su cuenta.
+- **Administración:** Hay dos tipos de usuarios: el usuario estándar y el administrador. El administrador tiene privilegios para eliminar publicaciones, editar la información de los usuarios y eliminar cuentas si es necesario.
+- **Notificaciones:** Los usuarios reciben notificaciones cuando reciben solicitudes de amistad.
+- **Ecommerce:** La aplicacion tiene un perqueño ecommerce para que los usuarios puedan acceder al plan premium que la aplicación ofrece.
+- **Facturación:** Luego de que el usuario complete su compra del plan premium se enviara a un correo la factura por la compra de su servicio.
+- **Recuperacion de contraseña:** Se puede recuperar la contraseña mediante un correo electrónico. esta opción se puede ver en el login.
 
-  <li><strong>Likes:</strong> Los usuarios pueden dar like a cualquier publicación y retirar su like si así lo desean.</li>
-
-  <li><strong>Comentarios:</strong> Posibilidad para los usuarios de comentar en las publicaciones y eliminar sus propios comentarios.</li>
-
-  <li><strong>Publicaciones Individuales:</strong> Permite ver publicaciones individualmente, incluyendo los comentarios asociados a cada una.</li>
-
-  <li><strong>Buscar Usuario:</strong> Mediante el buscador, los usuarios pueden buscar a otros usuarios de Blends por su nombre.</li>
-
-  <li><strong>Perfil de Usuario:</strong> Los usuarios pueden ver su propio perfil y el de otros usuarios.</li>
-
-  <li><strong>Amistades:</strong> Funcionalidades para visualizar, agregar y eliminar amigos.</li>
-
-  <li><strong>Chat:</strong> los usuarios tienen la capacidad de chatear entre ellos solo si son amigos.</li>
-
-  <li><strong>Usuario Premium:</strong> Los usuarios tienen la opción de comprar una membresía Premium, que les otorga un distintivo verificado en su perfil y publicaciones.</li>
-
-  <li><strong>Estado Online y offline:</strong> Indicadores de estado para mostrar si un usuario está en línea u offline.</li>
-
-  <li><strong>Sugerencia de Amigos:</strong> El sistema de sugerencia de amigos recomienda usuarios random de la aplicacion.</li>
-
-  <li><strong>Editar Información:</strong> Los usuarios pueden editar su información personal como nombre, correo, contraseña, descripción, imagen de perfil y también tienen la opción de eliminar su cuenta.</li>
-
-  <li><strong>Administración:</strong> Hay dos tipos de usuarios: el usuario estándar y el administrador. El administrador tiene privilegios para eliminar publicaciones, editar la información de los usuarios y eliminar cuentas si es necesario.</li>
-
-  <li><strong>Notificaciones:</strong> Los usuarios reciben notificaciones cuando reciben solicitudes de amistad.</li>
-  <li><strong>Ecommerce:</strong> La aplicacion tiene un perqueño ecommerce para que los usuarios puedan acceder al plan premium que la aplicación ofrece.</li>
-  <li><strong>Facturación:</strong> Luego de que el usuario complete su compra del plan premium se enviara a un correo la factura por la compra de su servicio.</li>
-  <li><strong>Recuperacion de contraseña:</strong>Se puede recuperar la contraseña mediante un correo electrónico. esta opción se puede ver en el login.</li>
-</ul>
-<h2>🖼 Interfaz:</h2>
+## 🖼 Interfaz:
 En esta seccion se muestra solo algunas pantallas de la aplicación, se puede visualizar su estilo y diseño, También la forma en la que adapta para moviles.
-<h3>Login:</h3>
-<img src="imagenes/login.PNG" alt="Feed">
-<br>
-<h3>Register:</h3>
-<img src="imagenes/Registro.PNG" alt="Feed">
-<br>
-<h3>Feed:</h3>
-<img src="imagenes/Feed.PNG" alt="Feed">
-<br>
-<h3>Lista de amigos:</h3>
-<img src="imagenes/amigo.PNG" alt="Feed">
-<br>
-<h3>Buscador de usuarios:</h3>
-<img src="imagenes/Buscador.PNG" alt="Feed">
-<br>
-<h3>Chat:</h3>
-<img src="imagenes/chat.PNG" alt="Feed">
-<br>
-<h3>Publicaciones indiviales y comentarios:</h3>
-<img src="imagenes/comentarios.PNG" alt="Feed">
-<br>
-<h3>Editar usuario:</h3>
-<img src="imagenes/editaruser.PNG" alt="Feed">
-<br>
-<h3>Perfil de usuario:</h3>
-<img src="imagenes/perfil.PNG" alt="Feed">
-<br>
+### Login:
+![Feed del usuario](imagenes/login.PNG)
 
-<h3>Movil (Responsive):</h3>
-<img src="imagenes/Movil.PNG" alt="Feed">
+### Register:
+![Feed del usuario](imagenes/Registro.PNG)
+
+### Feed: 
+![Feed del usuario](imagenes/Feed.PNG)
+
+### Lista de amigos:
+![Feed del usuario](imagenes/amigo.PNG)
+
+### Buscador de usuarios:
+![Feed del usuario](imagenes/Buscador.PNG)
+
+### Chat:
+![Feed del usuario](imagenes/chat.PNG)
+
+### Publicaciones indiviales y comentarios:
+![Feed del usuario](imagenes/comentarios.PNG)
+
+### Editar usuario:
+![Feed del usuario](imagenes/editaruser.PNG)
+
+### Perfil de usuario:
+![Feed del usuario](imagenes/perfil.PNG)
+
+### Movil (Responsive):
+![Feed del usuario](imagenes/Movil.PNG)
 
 
 
